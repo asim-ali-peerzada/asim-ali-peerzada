@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Laravel Developer at Surfiq Technologies, Lahore, Pakistan<br> Building solutions using Laravel and various web technologies.
+I'm currently working as a Laravel Developer at Surfiq Technologies, Lahore, Pakistan<br> Building solutions using Laravel and various web technologies.
 
 
 ## 🌐 Socials:
