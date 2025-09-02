@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on<br> Python Developer at Surfiq Technologies, Lahore, Pakistan<br> Building solutions using Python, Django, and various web technologies<br> I'm looking to collaborate on<br> Python projects, particularly in web development and automation<br> Open-source contributions and innovative tech solutions<br> Fun fact<br> I'm a Linux enthusiast who enjoys scripting and automating tasks for fun!
+I'm currently working on<br> Laravel Developer at Surfiq Technologies, Lahore, Pakistan<br> Building solutions using Laravel and various web technologies.
 
 
 ## 🌐 Socials:
