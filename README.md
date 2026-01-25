@@ -1,88 +1,63 @@
 # Hi, I'm Asim Ali 👋
-**PHP/Laravel Developer | 2+ years experience building secure, scalable, high-performance web applications**
+### PHP/Laravel Specialist | Backend Architect | Performance Optimizer
 
-I specialize in architecting multi-tenant SaaS platforms, building RESTful APIs, and implementing secure authentication systems. I focus on writing clean, testable code that delivers measurable results, such as reducing operational costs by 40% and automating complex workflows to reduce manual workload by 70%.
-
----
-
-## 🔹 Current Role
-- 🔭 **Laravel Developer at Surfiq Technologies**  
-- ⚡ Architecting multi-tenant platforms with complex RBAC systems  
-- ⚡ Developing real-time features like notifications and chat using WebSockets (Pusher)  
-- ⚡ Optimizing database performance using Redis caching and Eloquent eager loading  
-- ⚡ Securing applications using OAuth 2.0 / SSO, JWT, and TOTP-based 2FA  
-- 💬 Ask me about REST APIs, Laravel Queues, Laravel Cashier, and Microsoft Graph integrations
+I am a **Software Engineer** with 2+ years of professional experience specializing in the **Laravel ecosystem**. I move beyond basic CRUD to build enterprise-grade systems focusing on multi-tenancy, real-time communication, and high-performance database architecture.
 
 ---
 
-## 💻 Core Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
+### 🚀 Technical Impact at a Glance
+- **Scale:** Engineered systems processing **1M+ monthly records** with 99.9% accuracy.
+- **Performance:** Reduced API latency by **45%** through strategic N+1 query optimization and Redis caching.
+- **Automation:** Developed custom engines reducing manual configuration workloads by **60-70%**.
+- **Security:** Architected unified SSO and Zero-Trust environments for **10k+ daily active users**.
 
 ---
 
-## 🏆 Selected Projects
+### 🛠️ Core Tech Stack
 
-### 1️⃣ Enterprise SaaS Authentication Platform (Confidential)
-- **Role:** Backend Developer (Laravel)
-- **Tech:** Laravel, JWT, OAuth 2.0, Redis, MySQL
-- **What I did:** Centralized SSO for multiple apps, implemented secure JWT rotation, enforced multi-tenant RBAC
-- **Impact:** Improved cross-platform security, supported 10k+ daily active users
+**Languages & Frameworks**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 2️⃣ Real-Time Chat & Notification System
-- **Role:** Backend Developer
-- **Tech:** Laravel, WebSockets (Pusher), MySQL
-- **What I did:** Built real-time 1:1 and group chat, live notifications, and event-driven dashboards
-- **Impact:** Improved internal communication efficiency by 25%
-
-### 3️⃣ Automated Queue-Based Logistics Engine
-- **Role:** Full-Stack Developer
-- **Tech:** Laravel, Redis, Laravel Queues, MySQL
-- **What I did:** Automated data processing from vendor HTML receipts using queue jobs, 7-stage state machine for inventory tracking
-- **Impact:** Reduced manual data entry by 90%, ensured 100% end-to-end traceability
-
-*(You can include screenshots or architecture diagrams with confidential data masked.)*
+**Databases & Infrastructure**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-asimali)  
-[Portfolio](https://asimali.online)
+### 📂 Featured Technical Work (Case Studies)
+
+#### 🛡️ [Enterprise SSO & Zero-Trust Auth Center](https://linkedin.com/in/the-asimali)
+*Centralized authentication for 5+ enterprise apps.*
+- **Tech:** Laravel, OAuth 2.0, JWT, TOTP 2FA.
+- **Impact:** Eliminated unauthorized access incidents and unified 10k+ user identities.
+
+#### 📊 [Automated Logistics & Hardware Mapping Engine](https://linkedin.com/in/the-asimali)
+*High-precision automation for network provisioning.*
+- **Tech:** Laravel Queues, 7-Stage State Machine, HTML Parsing.
+- **Impact:** Reduced manual configuration time by 60% and achieved 100% item traceability.
+
+#### 💳 [SaaS Subscription & Billing Engine](https://linkedin.com/in/the-asimali)
+*Production-ready dynamic billing system.*
+- **Tech:** Laravel Cashier, Stripe, Sanctum.
+- **Impact:** Fully automated trial-to-paid conversions and promotional campaign logic.
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AsimAli&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsimAli&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsimAli&theme=shadow_blue&hide_border=false&include_all_commits=false&layout=compact)
+### 📊 GitHub Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Asim's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-asimali)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asimalipeerzada@gmail.com)
