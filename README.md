@@ -1,82 +1,88 @@
-[cite_start]Performance-oriented PHP/Laravel Developer with 2 years of experience in architecting secure, scalable, and high-performance web applications[cite: 4, 5]. [cite_start]My focus is on writing clean, testable code that solves complex business problems and delivers measurable results, such as reducing operational costs by up to 40% and manual workloads by 70%[cite: 7, 30, 31].
+# Hi, I'm Asim Ali 👋
+**PHP/Laravel Developer | 2+ years experience building secure, scalable, high-performance web applications**
 
-- 🔭 I’m currently a **Laravel Developer at Surfiq Technologies**.
-- [cite_start]🚀 Architecting and scaling multi-tenant platforms with complex Role-Based Access Control (RBAC) systems[cite: 5, 26].
-- [cite_start]⚡ Building real-time features like chat and notifications using WebSockets[cite: 6, 28].
-- [cite_start]🛠️ Optimizing database performance with Redis caching and Eloquent eager loading[cite: 6, 32].
-- [cite_start]🔐 Securing applications with OAuth 2.0/SSO, JWT, and TOTP-based 2FA[cite: 5, 17, 19, 27].
-- [cite_start]💬 Ask me about RESTful APIs, Laravel Queues, and third-party integrations like Microsoft Graph[cite: 5, 17, 33].
+I specialize in architecting multi-tenant SaaS platforms, building RESTful APIs, and implementing secure authentication systems. I focus on writing clean, testable code that delivers measurable results, such as reducing operational costs by 40% and automating complex workflows to reduce manual workload by 70%.
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AsimAliPeerzada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AsimAli) 
+## 🔹 Current Role
+- 🔭 **Laravel Developer at Surfiq Technologies**  
+- ⚡ Architecting multi-tenant platforms with complex RBAC systems  
+- ⚡ Developing real-time features like notifications and chat using WebSockets (Pusher)  
+- ⚡ Optimizing database performance using Redis caching and Eloquent eager loading  
+- ⚡ Securing applications using OAuth 2.0 / SSO, JWT, and TOTP-based 2FA  
+- 💬 Ask me about REST APIs, Laravel Queues, Laravel Cashier, and Microsoft Graph integrations
 
-# 💻 My Core Tech Stack:
+---
+
+## 💻 Core Tech Stack
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#-my-core-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
       <br>PHP
     </td>
     <td align="center" width="96">
-      <a href="#-my-core-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <a href="#-my-core-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="#-my-core-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
       <br>PostgreSQL
     </td>
-     <td align="center" width="96">
-      <a href="#-my-core-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      </a>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" />
       <br>Redis
     </td>
     <td align="center" width="96">
-      <a href="#-my-core-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
       <br>Git
     </td>
-     <td align="center" width="96">
-      <a href="#-my-core-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
       <br>JavaScript
-    </td>
-     <td align="center" width="96">
-      <a href="#-my-core-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
     </td>
   </tr>
 </table>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asim Ali&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asim Ali&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim Ali&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Asim Ali&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Asim Ali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 Selected Projects
+
+### 1️⃣ Enterprise SaaS Authentication Platform (Confidential)
+- **Role:** Backend Developer (Laravel)
+- **Tech:** Laravel, JWT, OAuth 2.0, Redis, MySQL
+- **What I did:** Centralized SSO for multiple apps, implemented secure JWT rotation, enforced multi-tenant RBAC
+- **Impact:** Improved cross-platform security, supported 10k+ daily active users
+
+### 2️⃣ Real-Time Chat & Notification System
+- **Role:** Backend Developer
+- **Tech:** Laravel, WebSockets (Pusher), MySQL
+- **What I did:** Built real-time 1:1 and group chat, live notifications, and event-driven dashboards
+- **Impact:** Improved internal communication efficiency by 25%
+
+### 3️⃣ Automated Queue-Based Logistics Engine
+- **Role:** Full-Stack Developer
+- **Tech:** Laravel, Redis, Laravel Queues, MySQL
+- **What I did:** Automated data processing from vendor HTML receipts using queue jobs, 7-stage state machine for inventory tracking
+- **Impact:** Reduced manual data entry by 90%, ensured 100% end-to-end traceability
+
+*(You can include screenshots or architecture diagrams with confidential data masked.)*
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-asimali)  
+[Portfolio](https://asimali.online)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=AsimAli&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsimAli&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsimAli&theme=shadow_blue&hide_border=false&include_all_commits=false&layout=compact)
