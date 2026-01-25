@@ -95,5 +95,5 @@ I am a **Software Engineer** with **2+ years of experience** specializing in **L
 
 <div align="center">
   <p><i>"Quality is not an act, it is a habit." - Aristotle</i></p>
-  <p>© 2024 Asim Ali. Designed & Built with ❤️ in Lahore, Pakistan.</p>
+  <p>© 2024 Asim Ali. Designed & Built with ❤️.</p>
 </div>
