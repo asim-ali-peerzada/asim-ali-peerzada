@@ -24,7 +24,7 @@ I specialize in architecting multi-tenant SaaS platforms, building RESTful APIs,
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" />
+      <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/laravel/laravel-plain.svg" width="48" height="48" />
       <br>Laravel
     </td>
     <td align="center" width="96">
