@@ -143,9 +143,9 @@ This profile primarily showcases my engineering activity, open-source work, and 
 
 ### GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=asim-ali-peerzada&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asim-ali-peerzada&show_icons=true&theme=transparent&hide_border=true&title_color=0077b5&text_color=555&icon_color=0077b5&v=1" height="150" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-ali-peerzada&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-ali-peerzada&layout=compact&theme=transparent&hide_border=true&title_color=0077b5&text_color=555&v=1" height="150" alt="Top Languages" />
 
 <br/>
 
