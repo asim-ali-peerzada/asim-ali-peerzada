@@ -1,51 +1,164 @@
 <div align="center">
-  <h1>Asim Ali</h1>
-  <h3>Full-Stack & Backend Architect</h3>
-  <p>
-    Building secure, scalable, and high-performance enterprise applications.
-  </p>
-  <p>
-    <a href="https://asimali.online"><strong>Portfolio</strong></a> •
-    <a href="http://linkedin.com/in/the-asimali"><strong>LinkedIn</strong></a> •
-    <a href="mailto:asimalipeerzada@gmail.com"><strong>Email</strong></a>
-  </p>
+
+# Asim Ali
+
+### Laravel Backend Engineer • Enterprise SaaS • Workflow Automation
+
+Building secure backend systems, multi-tenant SaaS platforms, and enterprise software that solves real business problems.
+
+<p>
+  <a href="https://asimali.online">Portfolio</a>
+  •
+  <a href="https://linkedin.com/in/the-asimali">LinkedIn</a>
+  •
+  <a href="mailto:asimalipeerzada@gmail.com">Email</a>
+</p>
+
 </div>
 
 ---
 
-### Professional Summary
+## About
 
-Software Engineer specializing in the Laravel ecosystem and scalable full-stack architectures. Focused on engineering high-performance APIs, multi-tenant enterprise platforms, and automated deployment pipelines. Proven ability to bridge the gap between complex backend logic, server configuration, and clean, maintainable user interfaces using Vite and Tailwind CSS. 
+I'm a Software Engineer specializing in backend development with a primary focus on the Laravel ecosystem.
 
-### Engineering Impact
+Over the last few years I've been building enterprise software including CRM systems, multi-tenant SaaS platforms, workflow automation tools, authentication systems, AI-powered applications, and large-scale business management platforms.
 
-* **Unified Authentication Architecture:** Designed a centralized Auth Center across 5+ enterprise applications utilizing OAuth 2.0 and JWT, establishing a Zero-Trust security model with mandatory TOTP 2FA.
-* **High-Throughput Data Pipelines:** Architected distributed Queue/Job systems capable of processing thousands of monthly records with 99.9% accuracy, reducing manual operational overhead by 70%.
-* **Automated Server Deployments:** Engineered deployment scripts handling cache management, database migrations, and symlink creation to ensure zero-downtime releases and streamlined server synchronization.
-* **Event-Driven Microservices:** Integrated WebSockets for real-time, event-driven communication, powering live notifications and robust 1:1 chat architectures.
-* **Dynamic Billing Systems:** Built flexible subscription engines integrating Stripe via Laravel Cashier alongside custom payment gateways.
-
-### Technical Arsenal
-
-* **Backend & Systems:** PHP, Laravel, MySQL, Redis, RESTful APIs
-* **Frontend:** JavaScript, React, Tailwind CSS, Vite
-* **DevOps & Architecture:** Docker, CI/CD, Automated Deployments, Global Environment Configuration
+My approach is simple: engineer software that is maintainable, scalable, and built around real operational problems—not just technical requirements.
 
 ---
 
-### GitHub Analytics
+## Current Focus
+
+- Enterprise SaaS Architecture
+- Laravel & PHP
+- REST API Design
+- Authentication & Authorization
+- Multi-Tenant Applications
+- Workflow Automation
+- AI Integration
+- Performance Optimization
+- System Design
+
+---
+
+## Selected Engineering Experience
+
+### Enterprise CRM Platform
+
+Designed and developed a centralized CRM featuring hierarchical Role-Based Access Control (RBAC), sales automation, Microsoft Graph integration, real-time collaboration, executive dashboards, and quotation workflows.
+
+---
+
+### Enterprise Identity & SSO Platform
+
+Architected a unified authentication ecosystem enabling secure Single Sign-On across multiple enterprise applications using OAuth, JWT, TOTP 2FA, centralized identity management, and approval workflows.
+
+---
+
+### Genealogy SaaS Platform
+
+Engineering a large-scale genealogy platform supporting historical record processing, OCR-assisted extraction, GEDCOM import/export, AI-assisted workflows, collaborative family management, and subscription-based SaaS architecture.
+
+---
+
+### Telecom Logistics Platform
+
+Built workflow automation systems for shipment tracking, inventory management, automated email processing, reporting, technician operations, and operational dashboards.
+
+---
+
+### AI Customer Support Platform
+
+Developed an AI-powered support platform integrating intelligent ticket routing, lead management, conversational workflows, analytics dashboards, and business automation.
+
+---
+
+## Technical Expertise
+
+### Backend
+
+- Laravel
+- PHP
+- Python
+- Django
+
+### Frontend
+
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- Redis
+
+### Architecture
+
+- REST APIs
+- Multi-Tenant SaaS
+- Domain-Driven Design
+- Role-Based Access Control (RBAC)
+- Authentication & Authorization
+- Queue Processing
+- Background Jobs
+- Event-Driven Systems
+- Performance Optimization
+- Caching Strategies
+
+### Integrations
+
+- Stripe
+- PayPal
+- Microsoft Graph API
+- Google OAuth
+- Pusher
+- OCR Services
+- OpenAI APIs
+
+---
+
+## Engineering Principles
+
+- Write maintainable software before clever software.
+- Optimize only after measuring.
+- Build systems that can evolve with the business.
+- Keep business logic explicit and testable.
+- Prioritize reliability over unnecessary complexity.
+
+---
+
+## GitHub
+
+Most of my professional work is developed for private enterprise projects and client systems, so much of my daily engineering work isn't publicly available here.
+
+This profile primarily showcases my engineering activity, open-source work, and selected public projects.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asim-ali-peerzada&show_icons=true&theme=transparent&hide_border=true&title_color=0077b5&text_color=555&icon_color=0077b5" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-ali-peerzada&layout=compact&theme=transparent&hide_border=true&title_color=0077b5&text_color=555" height="150" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asim-ali-peerzada&theme=transparent&hide_border=true&currStreakLabel=0077b5" height="150" alt="GitHub Streak" />
+
+### GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=asim-ali-peerzada&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-ali-peerzada&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asim-ali-peerzada&theme=transparent&hide_border=true"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Quality is not an act, it is a habit." — Aristotle</i></p>
-  <p>© 2026 Asim Ali.</p>
+
+**Portfolio** • https://asimali.online
+
+Building software that helps businesses operate smarter.
+
 </div>
