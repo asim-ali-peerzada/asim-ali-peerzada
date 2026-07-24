@@ -140,17 +140,21 @@ This profile primarily showcases my engineering activity, open-source work, and 
 ---
 
 <div align="center">
-
-### GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=asim-ali-peerzada&show_icons=true&theme=transparent&hide_border=true&title_color=0077b5&text_color=555&icon_color=0077b5&v=1" height="150" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-ali-peerzada&layout=compact&theme=transparent&hide_border=true&title_color=0077b5&text_color=555&v=1" height="150" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asim-ali-peerzada&theme=transparent&hide_border=true"/>
-
+  <h3>GitHub Statistics</h3>
+  
+  <a href="https://github.com/asim-ali-peerzada">
+    <img src="https://github-readme-stats.vercel.app/api?username=asim-ali-peerzada&show_icons=true&theme=transparent&hide_border=true&title_color=0077b5&text_color=555&icon_color=0077b5&v=1" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/asim-ali-peerzada">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-ali-peerzada&layout=compact&theme=transparent&hide_border=true&title_color=0077b5&text_color=555&v=1" alt="Top Languages" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/asim-ali-peerzada">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asim-ali-peerzada&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
