@@ -1,99 +1,51 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Asim Ali 👋</h1>
-  <h3 align="center">Performance-Oriented Laravel Developer 🚀</h3>
-  <p align="center">
+  <h1>Asim Ali</h1>
+  <h3>Full-Stack & Backend Architect</h3>
+  <p>
     Building secure, scalable, and high-performance enterprise applications.
-    <br />
-    <a href="https://asimali.online"><strong>🌐 Visit My Portfolio</strong></a>
-    <br />
-    <br />
-    <a href="http://linkedin.com/in/the-asimali">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:asimalipeerzada@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+  </p>
+  <p>
+    <a href="https://asimali.online"><strong>Portfolio</strong></a> •
+    <a href="http://linkedin.com/in/the-asimali"><strong>LinkedIn</strong></a> •
+    <a href="mailto:asimalipeerzada@gmail.com"><strong>Email</strong></a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 Professional Summary
+### Professional Summary
 
-I am a **Software Engineer** with **2+ years of experience** specializing in **Laravel ecosystem** and scalable backend architectures. I focus on writing **clean, SOLID-compliant code** that solves complex business problems. My expertise lies in high-performance APIs, multi-tenant SaaS platforms, and secure authentication systems.
+Software Engineer specializing in the Laravel ecosystem and scalable full-stack architectures. Focused on engineering high-performance APIs, multi-tenant enterprise platforms, and automated deployment pipelines. Proven ability to bridge the gap between complex backend logic, server configuration, and clean, maintainable user interfaces using Vite and Tailwind CSS. 
 
-- **🔭 Currently working at:** Surfiq Technologies as a Laravel Developer.
-- **🌱 Specializing in:** Architecting unified **SSO ecosystems**, **RBAC** systems, and real-time **WebSocket** solutions.
-- **⚡ Performance Obsessed:** Proven track record of reducing API latency by **45%** and manual operational workloads by **70%**.
+### Engineering Impact
+
+* **Unified Authentication Architecture:** Designed a centralized Auth Center across 5+ enterprise applications utilizing OAuth 2.0 and JWT, establishing a Zero-Trust security model with mandatory TOTP 2FA.
+* **High-Throughput Data Pipelines:** Architected distributed Queue/Job systems capable of processing thousands of monthly records with 99.9% accuracy, reducing manual operational overhead by 70%.
+* **Automated Server Deployments:** Engineered deployment scripts handling cache management, database migrations, and symlink creation to ensure zero-downtime releases and streamlined server synchronization.
+* **Event-Driven Microservices:** Integrated WebSockets for real-time, event-driven communication, powering live notifications and robust 1:1 chat architectures.
+* **Dynamic Billing Systems:** Built flexible subscription engines integrating Stripe via Laravel Cashier alongside custom payment gateways.
+
+### Technical Arsenal
+
+* **Backend & Systems:** PHP, Laravel, MySQL, Redis, RESTful APIs
+* **Frontend:** JavaScript, React, Tailwind CSS, Vite
+* **DevOps & Architecture:** Docker, CI/CD, Automated Deployments, Global Environment Configuration
 
 ---
 
-### 🚀 Key Achievements
-
-- **Unified SSO Ecosystem:** Architected a centralized Auth Center for 5+ enterprise apps using **OAuth 2.0 & JWT**.
-- **High-Performance Automation:** Built a distributed Queue/Job system processing **thousands of monthly Excel records**, ensuring 99.9% accuracy.
-- **Zero-Trust Security:** Spearheaded the transition to a Zero-Trust model with mandatory **TOTP 2FA** and secure token rotation.
-- **Subscription Engine:** Developed a dynamic billing architecture with **Laravel Cashier & Stripe** for automated provisioning.
-- **Real-Time Architecture:** Integrated **Pusher (WebSockets)** for event-driven 1:1 chats and live notifications.
-
----
-
-### 💻 Tech Stack
+### GitHub Analytics
 
 <div align="center">
-	<table>
-	  <tr>
-	    <td align="center" width="90">
-	      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-	      <br>PHP
-	    </td>
-	    <td align="center" width="90">
-	      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
-	      <br>Laravel
-	    </td>
-	    <td align="center" width="90">
-	      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-	      <br>MySQL
-	    </td>
-	    <td align="center" width="90">
-	      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
-	      <br>Redis
-	    </td>
-	    <td align="center" width="90">
-	      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-	      <br>Docker
-	    </td>
-	    <td align="center" width="90">
-	      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-	      <br>JavaScript
-	    </td>
-	    <td align="center" width="90">
-	      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-	      <br>React
-	    </td>
-	     <td align="center" width="90">
-	      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-	      <br>Git
-	    </td>
-	  </tr>
-	</table>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asim-ali-peerzada&show_icons=true&theme=transparent&hide_border=true&title_color=0077b5&text_color=555&icon_color=0077b5" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-ali-peerzada&layout=compact&theme=transparent&hide_border=true&title_color=0077b5&text_color=555" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asim-ali-peerzada&show_icons=true&theme=transparent&hide_border=true&title_color=0077b5&text_color=555&icon_color=0077b5" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim-ali-peerzada&layout=compact&theme=transparent&hide_border=true&title_color=0077b5&text_color=555" height="150" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asim-ali-peerzada&theme=transparent&hide_border=true&currStreakLabel=0077b5" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asim-ali-peerzada&theme=transparent&hide_border=true&currStreakLabel=0077b5" height="150" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Quality is not an act, it is a habit." - Aristotle</i></p>
-  <p>© 2024 Asim Ali. Designed & Built with ❤️.</p>
+  <p><i>"Quality is not an act, it is a habit." — Aristotle</i></p>
+  <p>© 2026 Asim Ali.</p>
 </div>
