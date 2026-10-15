@@ -1,158 +1,71 @@
 <div align="center">
 
 # Asim Ali
+### Backend Engineer — PHP & Laravel · Enterprise Systems · Identity & Workflow Automation
 
-### Laravel Backend Engineer • Enterprise SaaS • Workflow Automation
-
-Building secure backend systems, multi-tenant SaaS platforms, and enterprise software that solves real business problems.
-
-<p>
-  <a href="https://asimali.online">Portfolio</a>
-  •
-  <a href="https://linkedin.com/in/the-asimali">LinkedIn</a>
-  •
-  <a href="mailto:asimalipeerzada@gmail.com">Email</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-asimali.online-EA580C?style=flat-square&logo=safari&logoColor=white)](https://asimali.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-the--asimali-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-asimali)
+[![Resume](https://img.shields.io/badge/Resume-PDF-262626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://asimali.online/Asim_Ali_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-asimalipeerzada%40gmail.com-262626?style=flat-square&logo=gmail&logoColor=white)](mailto:asimalipeerzada@gmail.com)
 
 </div>
 
 ---
 
-## About
+### About
 
-I'm a Software Engineer specializing in backend development with a primary focus on the Laravel ecosystem.
+I am a **Backend Engineer** with 3 years of production experience specializing in **PHP and Laravel** (alongside **Python and FastAPI** for AI and automation services). I focus on the server side of operational software: domain modeling, identity and access control, background job pipelines, state machines, and high-throughput data ingestion across telecom, CRM, logistics, workforce, and SaaS domains.
 
-Over the last few years I've been building enterprise software including CRM systems, multi-tenant SaaS platforms, workflow automation tools, authentication systems, AI-powered applications, and large-scale business management platforms.
-
-My approach is simple: engineer software that is maintainable, scalable, and built around real operational problems—not just technical requirements.
-
----
-
-## Current Focus
-
-- Enterprise SaaS Architecture
-- Laravel & PHP
-- REST API Design
-- Authentication & Authorization
-- Multi-Tenant Applications
-- Workflow Automation
-- AI Integration
-- Performance Optimization
-- System Design
+- **Current Role:** Backend Engineer (PHP / Laravel) at **Surfiq Technologies** *(2024 – Present)*
+- **Core Focus:** Modular monoliths, centralized OAuth 2.0 / PKCE SSO, hierarchical RBAC & graph-aware ABAC, and resilient background processing.
+- **Writing:** [How I Structure a Laravel Application for Long-Term Maintenance](https://asimali.online/blog)
 
 ---
 
-## Selected Engineering Experience
+### Selected Production Systems & Case Studies
 
-### Enterprise CRM Platform
+*Most of my production engineering lives inside private enterprise repositories. Full architectural diagrams, database modeling decisions, and implementation deep-dives are documented on [asimali.online](https://asimali.online/#projects).*
 
-Designed and developed a centralized CRM featuring hierarchical Role-Based Access Control (RBAC), sales automation, Microsoft Graph integration, real-time collaboration, executive dashboards, and quotation workflows.
-
----
-
-### Enterprise Identity & SSO Platform
-
-Architected a unified authentication ecosystem enabling secure Single Sign-On across multiple enterprise applications using OAuth, JWT, TOTP 2FA, centralized identity management, and approval workflows.
-
----
-
-### Genealogy SaaS Platform
-
-Engineering a large-scale genealogy platform supporting historical record processing, OCR-assisted extraction, GEDCOM import/export, AI-assisted workflows, collaborative family management, and subscription-based SaaS architecture.
+| System | Domain & Scale | Core Backend Architecture | Case Study |
+| :--- | :--- | :--- | :--- |
+| **Close-Out Package (COP) System** | Telecom Field Operations *(Laravel 12 · React 18 · Inertia v2)* | **22 domain modules**, **26 policy classes**, **107 migrations**, and **77 queued jobs** under Laravel Horizon. Stateless **HMAC-SHA256 chunked upload protocol** (5 MB chunks, row-locked finalization) and server-budgeted **Headless Chromium (Browsershot)** PDF rendering for 300+ image telecom deliverables. | [Read Case Study →](https://asimali.online/projects/close-out-package-system) |
+| **Enterprise Unified SSO (AuthCenter)** | Centralized IAM & OAuth 2.0 Hub *(Laravel 12 · React 18/19)* | Custom **OAuth 2.0 + PKCE (S256)** authorization server with **RS256 JWT** guards, **TOTP 2FA**, MySQL **JTI token blacklisting**, approval-gated domain access, and **HMAC-SHA256** bidirectional user sync across **7 internal applications**. | [Read Case Study →](https://asimali.online/projects/enterprise-single-sign-on) |
+| **CCMS — Enterprise Sales & CRM** | B2B Sales & Territory CRM *(Laravel 11 · React 18)* | **117 migrations** and **5 hierarchy-aware policies** across a 7-tier sales org. Transactional **set-diff territory cascade revocation**, multi-tier revenue target allocation, **`Cache::lock`** sequential quote numbering, Dompdf quote-to-order flows, and **20K+ row chunked Excel imports**. | [Read Case Study →](https://asimali.online/projects/ccms) |
+| **Genealogy & Archival SaaS** | Collaborative Family History *(Laravel 12 · React 19)* | **135 migrations** across a multi-service monorepo (`ft-server` + `chat-service`). **5-tier graph-aware ABAC** resolved via **BFS traversal** (`GraphContextService`), unified **NARA & OpenArch** archival search, idempotent **Tesseract OCR + Google Gemini** entity extraction, and Stripe/PayPal billing. | [Read Case Study →](https://asimali.online/projects/genealogy-saas-platform) |
+| **Omnichannel AI Assistant** | AI Support & Voice Automation *(FastAPI · Python · React 19)* | Hybrid administrative API + **FastAPI** compute engine. Workspace-scoped **Pinecone vector RAG** ingestion, **Whisper STT → RAG → TTS** voice pipelines, and **Meta WhatsApp Cloud API** webhook routing. | [Read Case Study →](https://asimali.online/projects/ai-assistant-platform) |
+| **Samsung 5G Network Migration** | Telecom Provisioning & Hardware *(Laravel 12 · React 19 · .NET)* | Priority-ordered **regex circuit-path extraction engine** with confidence scoring and field provenance tracking across a **48-field / 60+ column** virtualized grid, paired with a **.NET + Brother b-PAC SDK** hardware label-printing bridge. | [Read Case Study →](https://asimali.online/projects/samsung-network-migration) |
+| **Shipment Tracker & IMS** | Telecom Supply-Chain Logistics *(Laravel 12 · Blade)* | Unattended **IMAP email ingestion** (`webklex/laravel-imap`) with dual Word/HTML layout parsers, message-ID deduplication, orphan/split shipment reconciliation, per-line quantity ledgers, and a guarded **9-state shipment lifecycle machine**. | [Read Case Study →](https://asimali.online/projects/shipment-tracker-and-ims) |
+| **Zametrix Property Intelligence** | Real Estate Analytics SaaS *(Laravel 12 · React 19)* | **17-table multi-snapshot field survey aggregation**, weighted 0–100 side-by-side location comparison scoring, 4-role moderation with OTP partner governance, and automated Dompdf investor dossiers. | [Read Case Study →](https://asimali.online/projects/zametrix) |
 
 ---
 
-### Telecom Logistics Platform
+### Core Engineering Highlights
 
-Built workflow automation systems for shipment tracking, inventory management, automated email processing, reporting, technician operations, and operational dashboards.
-
----
-
-### AI Customer Support Platform
-
-Developed an AI-powered support platform integrating intelligent ticket routing, lead management, conversational workflows, analytics dashboards, and business automation.
+- **Identity & Access Control:** Custom OAuth 2.0 + PKCE (S256) providers, asymmetric RS256 JWT guards with JTI blacklist revocation, Google Authenticator TOTP 2FA, hierarchical RBAC with subtree cascade revocation, and BFS graph-traversal ABAC (`FamilyAccessMatrix`).
+- **Resilient Media & Document Pipelines:** Stateless HMAC-signed resumable chunked uploads (`initiate → chunk → finalize → abort`), server-budgeted Headless Chromium (Browsershot) and Dompdf rendering, and Konva canvas-to-SVG overlay pipelines.
+- **High-Throughput Data & Ingestion:** 20K+ row chunked Excel/CSV pipelines with in-memory pre-fetch caches to eliminate per-row N+1 queries, unattended IMAP email parsing, and priority-ranked regex extraction with provenance logging.
+- **Concurrency & Stateful Workflows:** Multi-stage finite state machines with rank-guarded transitions, distributed mutex locks (`Cache::lock`) for race-free sequential numbering, and multi-supervisor Laravel Horizon queue isolation.
 
 ---
 
-## Technical Expertise
+### Technology Stack
 
-### Backend
-
-- Laravel
-- PHP
-- Python
-- Django
-
-### Frontend
-
-- React
-- TypeScript
-- JavaScript
-- Tailwind CSS
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- Redis
-
-### Architecture
-
-- REST APIs
-- Multi-Tenant SaaS
-- Domain-Driven Design
-- Role-Based Access Control (RBAC)
-- Authentication & Authorization
-- Queue Processing
-- Background Jobs
-- Event-Driven Systems
-- Performance Optimization
-- Caching Strategies
-
-### Integrations
-
-- Stripe
-- PayPal
-- Microsoft Graph API
-- Google OAuth
-- Pusher
-- OCR Services
-- OpenAI APIs
+| Layer | Technologies & Patterns |
+| :--- | :--- |
+| **Back-End** | PHP 8.2+, Laravel (11/12), Python, FastAPI, RESTful APIs, Eloquent ORM, Queues & Laravel Horizon, Modular Monoliths, Action / Service / DTO Architecture, State Machines |
+| **Database & Caching** | MySQL 8, Redis, Pinecone Vector DB, Schema Design, Query Optimization, Chunked & Cursor Processing, Tagged Cache Invalidation, N+1 Remediation |
+| **Security & Auth** | OAuth 2.0 / SSO, PKCE (S256), JWT (RS256), TOTP 2FA, HMAC-SHA256 Webhook Signing, Laravel Sanctum, Spatie Permission, Hierarchical RBAC & Graph ABAC, Gates & Policies |
+| **AI & Integrations** | RAG Pipelines, Google Gemini API, Tesseract OCR, Meta WhatsApp Cloud API, Microsoft Graph API, Stripe (Cashier) & PayPal Webhooks, IMAP Parsing, Pusher / WebSockets, Brevo API |
+| **Testing & DevOps** | Pest PHP, PHPUnit 11, PHPStan / Larastan, Laravel Pint, Laravel Telescope, Headless Chromium (Browsershot), GitHub Actions (CI/CD), Laravel Sail (Docker), Linux |
+| **Front-End** | TypeScript, JavaScript, React (18/19), Inertia.js v2, Laravel Blade, Tailwind CSS, TanStack Query / Table / Virtual, Bootstrap |
 
 ---
 
-## Engineering Principles
+### Get in Touch
 
-- Write maintainable software before clever software.
-- Optimize only after measuring.
-- Build systems that can evolve with the business.
-- Keep business logic explicit and testable.
-- Prioritize reliability over unnecessary complexity.
+Whether you are hiring for a **Backend Engineering role**, architecting a multi-system SaaS platform, or automating complex operational workflows:
 
----
-
-## GitHub
-
-Most of my professional work is developed for private enterprise projects and client systems, so much of my daily engineering work isn't publicly available here.
-
-This profile primarily showcases my engineering activity, open-source work, and selected public projects.
-
----
-
-<div align="center">
-  <h3>GitHub Statistics</h3>
-  
-  <a href="https://github.com/asim-ali-peerzada">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asim-ali-peerzada&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-<div align="center">
-
-**Portfolio** • https://asimali.online
-
-Building software that helps businesses operate smarter.
-
-</div>
+- **Portfolio & Case Studies:** [asimali.online](https://asimali.online)
+- **Technical Blog:** [asimali.online/blog](https://asimali.online/blog)
+- **LinkedIn:** [linkedin.com/in/the-asimali](https://www.linkedin.com/in/the-asimali)
+- **Email:** [asimalipeerzada@gmail.com](mailto:asimalipeerzada@gmail.com)
