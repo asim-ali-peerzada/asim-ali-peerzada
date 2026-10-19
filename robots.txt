@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# The GemGauge landing page lives in a project site, so its own robots.txt
+# sits at /gemgauge/robots.txt and a crawler would never find it here at
+# the host root. This file is the one search engines actually fetch, so the
+# sitemap is pointed at from here.
+Sitemap: https://asim-ali-peerzada.github.io/gemgauge/sitemap.xml
