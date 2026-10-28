@@ -24,20 +24,19 @@ LINE_H = 20.5
 TOP_PAD = 30
 BOTTOM_PAD = 24
 
-BG = "#0d0b0a"
-BG2 = "#151312"
-FRAME = "#4a3b33"
-MUTED = "#998f8f"
-INK = "#ede7e3"
-KEY = "#f46c38"      # ember keys
-SECTION = "#e9b872"  # warm sand section headers
-LIME = "#c5ff41"
-ACCENT = "#f9d6a8"
+BG = "#0a0e0c"
+BG2 = "#101614"
+FRAME = "#2b3a32"
+MUTED = "#7d8590"
+INK = "#e6edf3"
+KEY = "#3fb950"      # green keys
+SECTION = "#7ee787"  # brighter green section headers
+HOST = "asimali@github"
 
 # content model: tuples describing each row
-# ("host",)                    -> "asim@github" + rule
-# ("kv", key, value)           -> ember key + light value
-# ("sec", title)               -> sand "-- title --" rule
+# ("host",)                    -> "asimali@github" + rule
+# ("kv", key, value)           -> green key + light value
+# ("sec", title)               -> bright green "-- title --" rule
 # ("gap",)                     -> vertical space
 ROWS = [
     ("host",),
@@ -90,7 +89,7 @@ parts = [
 for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
     parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
 parts.append(f'<text x="{W/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-             f'text-anchor="middle">asim@github: ~$ neofetch</text>')
+             f'text-anchor="middle">asimali@github: ~$ neofetch</text>')
 
 y = TITLEBAR_H + TOP_PAD
 for i, row in enumerate(ROWS):
@@ -100,9 +99,9 @@ for i, row in enumerate(ROWS):
         continue
     if kind == "host":
         inner = (f'<text x="{KEY_X}" y="{y:.1f}" font-size="14" font-weight="700">'
-                 f'<tspan fill="{LIME}">asim</tspan><tspan fill="{MUTED}">@</tspan>'
-                 f'<tspan fill="{ACCENT}">github</tspan></text>'
-                 f'<line x1="{KEY_X+116}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
+                 f'<tspan fill="{SECTION}">asimali</tspan><tspan fill="{MUTED}">@</tspan>'
+                 f'<tspan fill="{KEY}">github</tspan></text>'
+                 f'<line x1="{KEY_X + len(HOST) * 8.4 + 10:.1f}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
                  f'stroke="{FRAME}" stroke-opacity="0.8"/>')
     elif kind == "sec":
         title = esc(row[1])

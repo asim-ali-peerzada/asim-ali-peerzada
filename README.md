@@ -21,7 +21,7 @@
 
 <p><b>Backend Engineer — PHP &amp; Laravel · Enterprise Systems · Identity &amp; Workflow Automation</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-asimali.is--a.dev-F46C38?style=for-the-badge&logo=safari&logoColor=white)](https://asimali.is-a.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-asimali.is--a.dev-2EA043?style=for-the-badge&logo=safari&logoColor=white)](https://asimali.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-the--asimali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-asimali)
 [![Email](https://img.shields.io/badge/Email-asimalipeerzada-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asimalipeerzada@gmail.com)
 

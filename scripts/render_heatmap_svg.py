@@ -6,8 +6,8 @@ classic 53-week x 7-day calendar, revealed once with a diagonal line-after-line
 slide-down (CSS keyframes, plays on load then freezes), a Less->More legend, and
 a real stats footer.
 
-Palette matches asimali.is-a.dev: warm charcoal shell, ember ramp for the boxes,
-lime for the headline numbers.
+Palette is a GitHub-green ramp on a cool charcoal shell, with the headline
+numbers in the same green so the art stays monochrome-emerald.
 
 Run by .github/workflows/update-profile-art.yml after fetch_contributions.py.
 """
@@ -19,8 +19,8 @@ HERE = os.path.dirname(__file__)
 IN_PATH = os.path.join(HERE, "..", "data", "contributions.json")
 OUT_PATH = os.path.join(HERE, "..", "contrib-heatmap.svg")
 
-# empty -> brightest ember, tuned to the site's #F46C38 accent.
-PALETTE = ["#1A1715", "#4A2418", "#7E3620", "#B8481F", "#E8622F", "#FFB27A"]
+# empty -> brightest green (GitHub ramp, neon top end)
+PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353", "#69f0a0"]
 
 CELL = 12
 GAP = 3
@@ -30,14 +30,13 @@ LEFT_LABEL_W = 30
 TOP_LABEL_H = 20
 TITLEBAR_H = 30
 
-BG = "#0B0A0A"
-BG2 = "#151312"
-FRAME = "#4A3B33"
-MUTED = "#998F8F"
-TEXT = "#EDE7E3"
-ACCENT = "#F46C38"
-LIME = "#C5FF41"
-GOLD = "#E9B872"
+BG = "#0A0E0C"
+BG2 = "#101614"
+FRAME = "#2B3A32"
+MUTED = "#7D8590"
+TEXT = "#E6EDF3"
+ACCENT = "#3FB950"
+BRIGHT = "#56D364"
 
 # reveal timing (one-shot) — pop in on a diagonal, then freeze
 COL_T = 0.065   # per-column delay (left -> right sweep)
@@ -130,7 +129,7 @@ def render(data):
     for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
         parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
     parts.append(f'<text x="{canvas_w/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-                 f'text-anchor="middle">asim@github: ~/contributions --graph</text>')
+                 f'text-anchor="middle">asimali@github: ~/contributions --graph</text>')
 
     grid_top = TITLEBAR_H + TOP_LABEL_H
     grid_left = PAD + LEFT_LABEL_W
@@ -182,7 +181,7 @@ def render(data):
 
     ly = sep_y + 24
     # left column: big highlighted numbers; right column: context in muted
-    parts.append(f'<text x="{PAD}" y="{ly}" font-size="13" fill="{LIME}">'
+    parts.append(f'<text x="{PAD}" y="{ly}" font-size="13" fill="{BRIGHT}">'
                  f'<tspan font-weight="700">{total:,}</tspan>'
                  f'<tspan fill="{MUTED}"> contributions in the last year</tspan></text>')
     parts.append(f'<text x="{canvas_w - PAD}" y="{ly}" font-size="12" fill="{MUTED}" text-anchor="end">'
@@ -193,7 +192,7 @@ def render(data):
                  f'<tspan fill="{MUTED}">   &#183;   longest </tspan>'
                  f'<tspan fill="{ACCENT}" font-weight="700">{ls} days</tspan></text>')
     parts.append(f'<text x="{canvas_w - PAD}" y="{ly}" font-size="12" fill="{MUTED}" text-anchor="end">'
-                 f'best day <tspan fill="{GOLD}" font-weight="700">{best["count"]}</tspan> on {best["date"]}</text>')
+                 f'best day <tspan fill="{BRIGHT}" font-weight="700">{best["count"]}</tspan> on {best["date"]}</text>')
 
     parts.append("</svg>")
     return "".join(parts)
