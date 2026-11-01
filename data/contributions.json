@@ -1,22 +1,22 @@
 {
   "username": "asim-ali-peerzada",
-  "generated_at": "2026-10-31T12:41:43Z",
+  "generated_at": "2026-11-01T13:32:48Z",
   "range": {
-    "start": "2025-10-26",
+    "start": "2025-11-02",
+    "end": "2026-11-01"
+  },
+  "total_contributions": 1136,
+  "active_days": 212,
+  "avg_per_active_day": 5.4,
+  "current_streak": {
+    "length": 17,
+    "start": "2026-10-15",
     "end": "2026-10-31"
   },
-  "total_contributions": 1158,
-  "active_days": 217,
-  "avg_per_active_day": 5.3,
-  "current_streak": {
-    "length": 16,
-    "start": "2026-10-15",
-    "end": "2026-10-30"
-  },
   "longest_streak": {
-    "length": 16,
+    "length": 17,
     "start": "2026-10-15",
-    "end": "2026-10-30"
+    "end": "2026-10-31"
   },
   "best_day": {
     "date": "2026-08-30",
@@ -24,12 +24,8 @@
   },
   "monthly": [
     {
-      "month": "2025-10",
-      "total": 18
-    },
-    {
       "month": "2025-11",
-      "total": 39
+      "total": 34
     },
     {
       "month": "2025-12",
@@ -73,38 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 202
+      "total": 203
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 2
-    },
-    {
-      "date": "2025-10-27",
-      "count": 4
-    },
-    {
-      "date": "2025-10-28",
-      "count": 2
-    },
-    {
-      "date": "2025-10-29",
-      "count": 0
-    },
-    {
-      "date": "2025-10-30",
-      "count": 8
-    },
-    {
-      "date": "2025-10-31",
-      "count": 2
-    },
-    {
-      "date": "2025-11-01",
-      "count": 5
-    },
     {
       "date": "2025-11-02",
       "count": 1
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-31",
+      "count": 1
+    },
+    {
+      "date": "2026-11-01",
       "count": 0
     }
   ]
